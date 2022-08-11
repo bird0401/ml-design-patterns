@@ -55,3 +55,6 @@ We will update this repo with source code as we write each chapter. Stay tuned!
   * #29 Explainable Predictions
   * #30 Fairness Lens
 * Summary
+
+# References
+- [AI Platform tutorial](https://cloud.google.com/ai-platform/docs/getting-started-keras?hl=ja)
