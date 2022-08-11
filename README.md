@@ -58,3 +58,6 @@ We will update this repo with source code as we write each chapter. Stay tuned!
 
 # References
 - [AI Platform tutorial](https://cloud.google.com/ai-platform/docs/getting-started-keras?hl=ja)
+- [docker command](https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53)
+- [pyenv install](https://qiita.com/shigechiyo/items/)
+- [pyenv command](https://qiita.com/EasonYo/items/bc71f013b32aa6c78502)
